@@ -3,7 +3,7 @@ Data Analysis & Visualization Bootcamp<br/></h1>
 
 --------------------------------
 
-<h2 align="center">Group Project 4:<br/>
+<h2 align="center">Group Project:<br/>
 Asteroid Impact Prediction using<br/>
 Supervised Learning and Neural Network Models<br/>
 <br/>
