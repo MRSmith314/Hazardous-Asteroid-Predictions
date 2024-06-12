@@ -58,20 +58,18 @@ Guide to the Project
 10. Compared observations and search for improved accuracy for each model.
 
 ## Notebooks Used
-Google Colaboratory
+Google Colaboratory  
 Jupyter Notebook
 
 ## Platforms, API’s, Libraries and Packages
-Pandas
-Matplotib
-SciKit Learn
-Tensorflow
-Keras
-Get_dummies
-Seaborn
-imblearn
-
-
+Pandas  
+Matplotib  
+SciKit Learn  
+Tensorflow  
+Keras  
+Get_dummies  
+Seaborn  
+imblearn  
 
 ------------------------------------
 References
